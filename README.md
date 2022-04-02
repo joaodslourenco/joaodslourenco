@@ -1,5 +1,5 @@
 - 👋 Hey there, I’m João Lourenço!
-- 👀 I’m interested in Front-End and mobile programming.
+- 👀 I’m interested in Full-Stack programming.
 - 🔧 Focus on development using React and Next.js.
 - 🌱 Coding and learning everyday!
 - 💞️ I’m looking to collaborate on Front-End roles in which I can help at development of new features while getting experience and knowledge to become a better developer.
