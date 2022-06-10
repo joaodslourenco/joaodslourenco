@@ -1,8 +1,8 @@
 - 👋 Hey there, I’m João Lourenço!
 - 👀 I’m interested in Full-Stack programming.
-- 🔧 Focus on development using React and Next.js.
+- 🔧 Focus on development using React and Node.js.
 - 🌱 Coding and learning everyday!
-- 💞️ I’m looking to collaborate on Front-End roles in which I can help at development of new features while getting experience and knowledge to become a better developer.
+
 - 📫 You can reach me at joaodslourenco@gmail.com
 
 <div style="display: inline_block"><br>
