@@ -1,8 +1,8 @@
 - 👋 Hey there, I’m João Lourenço!
+- 👨‍💻 I'm a fullstack developer trainee at Grupo FCamara.
 - 👀 I’m interested in Full-Stack programming.
 - 🔧 Focus on development using React and Node.js.
 - 🌱 Coding and learning everyday!
-
 - 📫 You can reach me at joaodslourenco@gmail.com
 
 <div style="display: inline_block"><br>
