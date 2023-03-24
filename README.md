@@ -2,8 +2,8 @@
 
 - 👨‍💻 I'm a fullstack developer at Grupo FCamara.
 - 👀 I’m interested in Full-Stack programming.
-- 🔧 Focus on development using React and Node.js.
-- 🌱 Coding and learning everyday!
+- 🔧 Focus on web development using React and Node.js.
+- 🌱 Currently learning Go :)
 - 📫 You can reach me at joaodslourenco@gmail.com
 
 
@@ -19,15 +19,10 @@
    <img align="center" title="Tailwind CSS" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   <img align="center" alt="Joau-Next" title="Next.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
  <img align="center" title="Express" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
- <img align="center" title="NestJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/>
  <img align="center" title="Firebase" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
  <img align="center" title="Jest" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
   <img align="center" title=""MongoDB src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
   <img align="center" title="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  
-  <img align="center" title="Redis" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
- 
-  <img align="center" title="SQLite" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
   <img align="center" title="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </div>
 
