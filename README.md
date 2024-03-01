@@ -3,7 +3,7 @@
 - 👨‍💻 I'm a fullstack developer at Grupo FCamara.
 - 👀 I’m interested in Full-Stack programming.
 - 🔧 Focus on web development using React and Node.js.
-- 🌱 Interested in Go :)
+- 🌱 Studying Go :)
 - 📫 You can reach me at joaodslourenco@gmail.com
 
 
