@@ -1,8 +1,8 @@
 <h1>👋 Hey there, I’m João Lourenço!</h1>
 
-- 👨‍💻 I'm a fullstack developer at Grupo FCamara.
-- 👀 I’m interested in Full-Stack programming.
-- 🔧 Focus on web development using React, Node.js and Java.
+- 👨‍💻 I'm a Software Engineer at PagBank.
+- 👀 I’m interested in Back-end programming.
+- 🔧 Focus on web development using Kotlin, Java.
 - 📫 You can reach me at joaodslourenco@gmail.com
 
 
